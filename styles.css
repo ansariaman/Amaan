@@ -192,7 +192,7 @@ margin-top: 28px;
   border-radius: 25px;;
   width: 90%;
   position: relative;
-  z-index: -1;
+  z-index: 0;
   margin: auto;
   position: relative;
   top: 200px;
